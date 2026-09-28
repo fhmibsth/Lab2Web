@@ -220,8 +220,42 @@ File proyek mini terdapat pada:
 
 ---
 
-## Pertanyaan dan Jawaban
+# Jawab Pertanyaan Berikut
 
+1. Apa fungsi `<table>`, `<tr>`, `<th>`, dan `<td>`?
+2. Apa perbedaan `<th>` dan `<td>`?
+3. Apa fungsi `colspan` pada tabel?
+4. Apa fungsi `<form>` dalam HTML?
+5. Apa perbedaan radio button dan checkbox?
+6. Mengapa `<label>` sebaiknya terhubung dengan id input melalui atribut `for`?
+7. Apa perbedaan `<textarea>` dengan input type text?
+8. Apa fungsi semantic HTML seperti `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, dan `<footer>`?
+9. Apa fungsi `required`, `min`, `max`, dan `minlength`?
+10. Apa perbedaan elemen `<audio>` dan `<video>`?
+
+---
+
+# Jawaban
+
+1. `<table>` digunakan untuk membuat tabel, `<tr>` digunakan untuk membuat baris tabel, `<th>` digunakan untuk membuat sel header atau judul tabel, dan `<td>` digunakan untuk membuat sel data pada tabel.
+
+2. `<th>` digunakan untuk membuat sel header atau judul pada tabel, sedangkan `<td>` digunakan untuk membuat sel data.
+
+3. `colspan` digunakan untuk menggabungkan beberapa kolom menjadi satu sel.
+
+4. `<form>` digunakan untuk membuat formulir yang dapat digunakan untuk menerima data dari pengguna.
+
+5. Radio button digunakan untuk memilih satu pilihan dari beberapa pilihan, sedangkan checkbox memungkinkan pengguna memilih lebih dari satu pilihan.
+
+6. `<label>` sebaiknya terhubung dengan `id` input melalui atribut `for` agar pengguna dapat mengklik teks label untuk memilih atau mengaktifkan input yang terkait.
+
+7. `<textarea>` digunakan untuk memasukkan teks yang lebih panjang dan dapat terdiri dari beberapa baris, sedangkan `<input type="text">` umumnya digunakan untuk memasukkan teks satu baris.
+
+8. Semantic HTML digunakan untuk memberikan struktur dan makna yang jelas pada bagian-bagian halaman web, seperti header, navigasi, konten utama, section, artikel, informasi tambahan, dan footer.
+
+9. `required` membuat input wajib diisi, `min` menentukan nilai minimum, `max` menentukan nilai maksimum, dan `minlength` menentukan jumlah karakter minimum.
+
+10. `<audio>` digunakan untuk menampilkan atau memutar audio, sedangkan `<video>` digunakan untuk menampilkan atau memutar video.
 
 
 ## Struktur Repository
